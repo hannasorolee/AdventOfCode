@@ -1,2 +1,2 @@
-# AdvertOfCode
-Questions for Advert of Code 2020
+# AdventOfCode
+Questions for Advent of Code 2020
